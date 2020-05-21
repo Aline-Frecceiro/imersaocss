@@ -1,0 +1,34 @@
+body {
+  background-image: url('https://thumbs.dreamstime.com/b/palavra-criativa-do-portf%C3%B3lio-sobre-bandeira-geom%C3%A9trica-abstrata-da-web-fundo-das-formas-110176284.jpg');  
+  background-size:auto 100vh;
+  font-family: vergana;
+  height:100vh;
+}
+.menu{
+  background-color: #0000ff23;
+} 
+.menu ul{
+  display:flex;
+  justify-content:space-around;
+}
+.menu li{
+  list-style: none;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmake;
+    text-align: center;
+  }
+  .site-subtitle {
+    font-style: italic;
+    
+  }
+       
